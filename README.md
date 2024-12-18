@@ -1,1 +1,1 @@
-# -Recipe-Generator
+# -Recipe-Generator    This project helps you generate creative recipes based on the ingredients you have at hand. Whether you're trying to minimize food waste or explore new culinary possibilities, this tool has got you covered.
